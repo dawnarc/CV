@@ -39,7 +39,8 @@ Industry category: Online game | Enterprise nature: Private | Scale: 2000+ | Mon
 
 Job description: Developing a sandbox PC game with workmates with UnrealEngine4. This project is based on the source of ARK.
   
-
+  
+  
 2015/08 -- 2016/10 (14 months)
 
 `Indie Game Development by myself | Game Designer & Developer`
