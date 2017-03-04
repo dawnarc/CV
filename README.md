@@ -38,7 +38,7 @@ http://www.dawnarc.com/
 Industry category: Online game | Enterprise nature: Private | Scale: 2000+ | Monthly salary: Confidentiality
 
 Job description: Developing a sandbox PC game with workmates with UnrealEngine4. This project is based on the source of ARK.
-
+  
 
 2015/08 -- 2016/10 (14 months)
 
@@ -47,7 +47,7 @@ Job description: Developing a sandbox PC game with workmates with UnrealEngine4.
 Industry category: Indie game
 
 Job description: Developing a RTS online game with UnrealEngine4 independently. Responsible for all programming of client-side and server-side, and also made a particle like “Arcane Missiles”. Involved in designing gameplay and art.
-
+  
 
 2012/11 -- 2015/08 (2 years 10 months)
 
@@ -56,7 +56,7 @@ Job description: Developing a RTS online game with UnrealEngine4 independently. 
 Industry category: Online game | Enterprise nature: Private | Scale: 20-99 | Monthly salary: Confidentiality
 
 Job description: Responsible for the development of server side infrastructures, games core logic as well as client’s network of the whole company. Control and guide company’s technical direction, along with interns coaching and mentoring.
-
+  
 
 2010/12 -- 2012/11 (2 years)
 
@@ -65,7 +65,7 @@ Job description: Responsible for the development of server side infrastructures,
 Industry category: Online game | Enterprise nature: Private | Scale: 100-499 | Monthly salary: Confidentiality
 
 Job description: Mainly responsible for Pockie Ninja server side engine maintenance and extension as well as game logic development
-
+  
 
 2010/03 -- 2010/08 (6 months)
 
@@ -74,7 +74,9 @@ Job description: Mainly responsible for Pockie Ninja server side engine maintena
 Industry category: Computer software | Enterprise nature: Listed company | Scale: over 10000 | Monthly salary: Confidentiality
 
 Job description: Participate in Vodafone telecom and Singapore telecom system development
-
+  
+  
+  
 
 ### Resume
 
@@ -84,18 +86,20 @@ Job description: Participate in Vodafone telecom and Singapore telecom system de
 `Time`: 2017.01 until now	
 
 `Content`: Maya and ZBrush
-
+  
+  
 ##### `Institution	Training`: Shanghai Lingxun Education
 `Time`: 2010/08 - 2010/12
 
 `Content`: C++ (network, MFC)
-
+  
+  
 ##### `Institution	Training`: Aptech-Yichang authorized training center
 `Time`: 2008/08 - 2010/02
 
 `Content`: JavaEE and .NET enterprise development
-
-
+  
+  
 #### Working experience
 		
 ##### `Company`: Suzhou Snail Digital Technology Co., Ltd.
@@ -104,42 +108,48 @@ Job description: Participate in Vodafone telecom and Singapore telecom system de
 `Project`: ARK online game
 
 `Technology`: UnrealEngine4
-
+  
+  
 ##### `Company`: Indie game development by myself
 `Time`: 2015/08 - 2016/10
 
 `Project`: RTS online game
 
 `Technology`: UnrealEngine4 + libuv + protobuf + boost
-
+  
+  
 ##### `Company`: Shanghai TheBingo Information Technology Co., LTD
 `Time`: 2014/05 - 2015/08
 
 `Project`: Spinal Breakers server side
 
 `Technology`: JavaSE7.0 + libuv + protobuf + MySQL
-
+  
+  
 ##### `Company`: Shanghai TheBingo Information Technology Co., LTD
 `Time`: 2012/11 - 2014/04
 
 `Project`: Cute Warrior server side
 
 `Technology`: JavaSE7.0 + libuv + protobuf + MySQL   
-			
+  
+  
 ##### `Company`: Shanghai Dream2 Network Technology Co., LTD
 `Time`: 2012/07 - 2012/11
 
 `Project`: Warblade server
 
 `Technology`: ACE+boost+protobuf+SqlLite+MySQL+Python
-
+  
+  
 ##### `Company`: Shanghai Dream2 Network Technology Co., LTD
 `Time`: 2010/12 - 2012/06
 
 `Project`: Pockie Ninja server
 
 `Technology`: JavaSE6.0 + IOCP + MySQL
-
+  
+  
 ##### `Company`: VanceInfo (Nanjing) Software Technology Co., LTD
 `Time`: 2010/03 - 2010/08
 
@@ -147,7 +157,9 @@ Job description: Participate in Vodafone telecom and Singapore telecom system de
 
 `Technology`: GXT2.0 + BME(Huawei) + Oracle11g
 
-
+  
+  
+  
 #### Project description (from present to past)
 
 ##### ARK online game
@@ -164,14 +176,14 @@ I had researched Unity3D for 2 months in the beginning, but I found that the per
 The network module of server-side was programmed with libuv, and integrated it with UE4. The network module of client-side was programmed with FSocket of UE4 API. Logic messages were encoded and decoded with protobuf. Version control system was git, and server-side of git was Gitblit. Building tool was cmake.
 
 The works with UE4 that I finished independently include: performance optimization of UE4, e.g. CPU, GPUand memory; the replication of data and communications of TCP network; Multi-thread and synchronization in UE4; Integration in UE4 with C++ frameworks: boost, RekNet, protobuf; development of UI, include UMG, Slate and Canvas; server-side development for MOBA game server which was integrated with UE4 GameThread; programming B star pathfinding algorithm, and combine it with NavMesh of UE4 to achieve special logic; post processing of scene, include: Environment Lighting, Height Fog and so on; Version-to-Version migration of Android, include: Integration of protobuf-lite and UE4 in NDK mode.
-
-
+  
+  
 ##### Spinal Breakers online game server side
 Network module was programmed with C++, other modules were programmed with Java.
 
 Spinal Breakers’s server side architecture is basically the same as Cute Warrior. But it optimizes server side development tools, and modifies the previous constructive mechanism. Specifically, the new project uses maven instead of ant in the previous projects. Integration environment uses Jenkins. As the project's client logic all adopts the lua script to develop, and google official does not provide protobuf’s lua version to support, so the client communication protocol uses a third party open source framework of protobuf: protoc-gen-lua. 
-
-
+  
+  
 ##### Cute Warrior online game server side
 Network module was programmed with C++, other modules were programmed with Java.
 
@@ -182,24 +194,24 @@ The network communication layer uses node.js underlying library libuv, so that t
 The logical layer uses Java, as well as script. Compile these “scripts” at project initiation time through own tool interface of jdk, then manual load class file to the virtual machine. In that case, original JavaScript is replaced to improve the script performance. The logic layer and communication layer use JNI interface. The game can also be divided into multiple scene and a process can support multiple scene. A scene with large load pressure can adopt distributed processing through a process divided into a scene.
 
 In contrast with network module of Warblade online game server-side, all dynamic memory allocation are pooled: according to PCU limitation configuration, allocating a large memory on server startup, all these memory don't need to destroy after using. It trades memory for time, and decreased CPU usage obviously, this is the key factor to implement thousands PCU load.
-
-
+  
+  
 ##### Warblade online game server side
 Programmed with C++ and python.
 
 The project includes gateway server, game logic server, cache server and database server, and uses distributed architecture. The network layer uses ACE framework, cache uses sqllite, database uses mysql, communication protocol uses google’s protobuf, script uses python (achieve C++ interface interaction through the support provided by boost). 
 
 Within the game, every scene is a single process. UDP communication protocol is adopted among these processes to enhance the efficiency of network communication. Data formats in the game uses coded format provided by protobuf. When parse role data, directly decode these protobuf binary data as protobuf custom objects. When store role data, write to the hard drive through sqllite first, then store in mysql database at regular time. I participated in the development of server side underlying architecture and part of the game logic, as well as a small amount of client logic such as mall system.
-
-
+  
+  
 ##### Pockie Ninja online game server
 Network module was programmed with C++, other modules were programmed with Java.
 
 Pockie Ninja project includes connection server, game logic server, public data server, data center server and DB server, and it adopts distributed architecture. Its game server, public data server and central data server can scale under load, break into several services or merger, and deploy each service into physical server separately. Server communication module adopts IOCP. Both middleware and game logic uses Java, and middleware can call communication module through JNI. Game script document adopts JavaScript, which is executed by JDK script engine. And database is all made of the blob data type to reduce the DB maintenance complexity.
 
 I was mainly responsible for the game logic writing and engine maintenance extension in the project. I accomplished SNS system all logics and several large-scale versions such as “Tail beast siege” independently. I also completed related tools development including DB data reader; server merge tool; central data server writing and cross-server battlegrounds system; as well as overseas multinational version support and maintenance. 
-
-
+  
+  
 ##### eReader system (Vodafone Telecom baseline version and Singapore Telecom customized version)
 Programmed with Java.
 
