@@ -118,63 +118,59 @@ Job description: Participate in Vodafone telecom and Singapore telecom system de
   
   
 #### Working experience
-		
-##### `Company`: Suzhou Snail Digital Technology Co., Ltd.
-`Time`: 2016/12 - till now
 
-`Project`: ARK online game
-
-`Technology`: UnrealEngine4
-  
-  
-##### `Company`: Indie game development by myself
-`Time`: 2015/08 - 2016/10
-
-`Project`: RTS online game
-
-`Technology`: UnrealEngine4 + libuv + protobuf + boost
-  
-  
-##### `Company`: Shanghai TheBingo Information Technology Co., LTD
-`Time`: 2014/05 - 2015/08
-
-`Project`: Spinal Breakers server side
-
-`Technology`: JavaSE7.0 + libuv + protobuf + MySQL
-  
-  
-##### `Company`: Shanghai TheBingo Information Technology Co., LTD
-`Time`: 2012/11 - 2014/04
-
-`Project`: Cute Warrior server side
-
-`Technology`: JavaSE7.0 + libuv + protobuf + MySQL   
-  
-  
-##### `Company`: Shanghai Dream2 Network Technology Co., LTD
-`Time`: 2012/07 - 2012/11
-
-`Project`: Warblade server
-
-`Technology`: ACE+boost+protobuf+SqlLite+MySQL+Python
-  
-  
-##### `Company`: Shanghai Dream2 Network Technology Co., LTD
-`Time`: 2010/12 - 2012/06
-
-`Project`: Pockie Ninja server
-
-`Technology`: JavaSE6.0 + IOCP + MySQL
-  
-  
-##### `Company`: VanceInfo (Nanjing) Software Technology Co., LTD
-`Time`: 2010/03 - 2010/08
-
-`Project`: eReader System
-
-`Technology`: GXT2.0 + BME(Huawei) + Oracle11g
-
-  
+<table>
+    <thead>
+        <tr>
+            <th>Company</th>
+            <th>Time</th>
+            <th>Project</th>
+            <th>Technology</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Suzhou Snail Digital Technology Co., Ltd.</td>
+            <td>2016/12 - till now</td>
+            <td>ARK online game</td>
+            <td>UnrealEngine4</td>
+        </tr>
+        <tr>
+            <td>Indie game development by myself</td>
+            <td>2015/08 - 2016/10</td>
+            <td>RTS online game</td>
+            <td>UnrealEngine4 + libuv + protobuf + boost</td>
+        </tr>
+        <tr>
+            <td rowspan="2">Shanghai TheBingo Information Technology Co., LTD</td>
+            <td>2014/05 - 2015/08</td>
+            <td>Spinal Breakers server side</td>
+            <td>JavaSE7.0 + libuv + protobuf + MySQL</td>
+        </tr>
+        <tr>
+            <td>2012/11 - 2014/04</td>
+            <td>Cute Warrior server side</td>
+            <td>JavaSE7.0 + libuv + protobuf + MySQL</td>
+        </tr>
+        <tr>
+            <td rowspan="2">Shanghai Dream2 Network Technology Co., LTD</td>
+            <td>2012/07 - 2012/11</td>
+            <td>Warblade server</td>
+            <td>ACE+boost+protobuf+SqlLite+MySQL+Python</td>
+        </tr>
+        <tr>
+            <td>2010/12 - 2012/06</td>
+            <td>Pockie Ninja server</td>
+            <td>JavaSE6.0 + IOCP + MySQL</td>
+        </tr>
+        <tr>
+            <td>VanceInfo (Nanjing) Software Technology Co., LTD</td>
+            <td>2010/03 - 2010/08</td>
+            <td>eReader System</td>
+            <td>GXT2.0 + BME(Huawei) + Oracle11g</td>
+        </tr>
+    </tbody>
+</table>
   
   
 #### Project description (from present to past)
