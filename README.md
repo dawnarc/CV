@@ -1,5 +1,11 @@
 # Neil Wong
 
+Male | Single | Dec. 1987 | Birth Place: Yichang, Hubei province | currently live in Suzhou-China
+
+7 years working experience | non-party personage 
+
+E-mail: aigo@mail.com
+
 ### Job Objective
 
 `Job nature`: Full-time 
@@ -83,22 +89,32 @@ Job description: Participate in Vodafone telecom and Singapore telecom system de
 
 #### Training experience
 
-##### `Institution	Training`: e-Learning of 3D Art	
-`Time`: 2017.01 until now	
-
-`Content`: Maya and ZBrush
-  
-  
-##### `Institution	Training`: Shanghai Lingxun Education
-`Time`: 2010/08 - 2010/12
-
-`Content`: C++ (network, MFC)
-  
-  
-##### `Institution	Training`: Aptech-Yichang authorized training center
-`Time`: 2008/08 - 2010/02
-
-`Content`: JavaEE and .NET enterprise development
+<table>
+    <thead>
+        <tr>
+            <th>Time</th>
+            <th>Institution	Training</th>
+            <th>Content</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>2017.01 until now</td>
+            <td>e-Learning of 3D Art</td>
+            <td>Maya and ZBrush</td>
+        </tr>
+        <tr>
+            <td>2010/08 - 2010/12</td>
+            <td>Shanghai Lingxun Education</td>
+            <td>C++ (network, MFC)</td>
+        </tr>
+        <tr>
+            <td>2008/08 - 2010/02</td>
+            <td>Aptech-Yichang authorized training center</td>
+            <td>JavaEE and .NET enterprise development</td>
+        </tr>
+    </tbody>
+</table>
   
   
 #### Working experience
