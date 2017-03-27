@@ -4,7 +4,7 @@ Male | Single | Dec. 1987 | Birth Place: Yichang, Hubei province | currently liv
 
 7 years working experience | non-party personage 
 
-E-mail: aigo@mail.com
+E-mail: aiguo1024@gmail.com
 
 ### Job Objective
 
@@ -100,8 +100,8 @@ Job description: Participate in Vodafone telecom and Singapore telecom system de
     <tbody>
         <tr>
             <td>2017.01 until now</td>
-            <td>e-Learning of 3D Art</td>
-            <td>Maya and ZBrush</td>
+            <td>3D Concept Design of Mo Xingzhi Art</td>
+            <td>Process Models and Next-Generation</td>
         </tr>
         <tr>
             <td>2010/08 - 2010/12</td>
