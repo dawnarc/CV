@@ -1,8 +1,8 @@
-# Neil Wong
+# Neil Wang
 
 Male | Single | Dec. 1987 | Birth Place: Yichang, Hubei province | currently live in Suzhou-China
 
-7 years working experience | non-party personage 
+8 years working experience | non-party personage 
 
 E-mail: aiguo1024@gmail.com
 
@@ -20,63 +20,91 @@ E-mail: aiguo1024@gmail.com
 
 ### Self-Evaluation
 
-My 7 years working experience include one year enterprise development experience and four year online game server side development experience, one year UnrealEngine4 development.
+My 8 years working experience include half year enterprise development experience, five years online game server side development experience, 2.5 years UnrealEngine4 development.
 I was mainly responsible for core module development and server side lead programmer of online game project in my previous jobs. I am able to solve technology difficulties with my professional knowledge all by myself. I would very like to join a responsible and creative team. 
 
 ###### Personal skills
-1, Strong developer skills in C++ and JAVA, can develop server-side core of underlying module with JAVA and C++ independently.
+1, Strong developer skills in C++ and JAVA, can develop server-side core of underlying module with
+JAVA and C++ independently.
 
-2, Know C#, JavaScript, HTML, and have developed projects with these languages in 2009, but now, not familiar with them .
+2, Know C#, JavaScript, HTML, and have developed projects with these languages in 2009, but now, not familiar
+with them .
 
-3, Experience with high load server, I designed and developed a TCP server-side engine independently in 2013, PCU(peak concurrent users) reached 2000 with single cloud host in the open beta, and CPU usage is about 40%, PCU have reached 5000 on single server in the stress testing.
+3, Experience with high load server, I designed and developed a TCP server-side engine independently in 2013, PCU
+(peak concurrent users) reached 2000 with single cloud host in the open beta, and CPU usage is about 40%, PCU
+have reached 5000 on single server in the stress testing.
 
-4, Strong developer skills in UnrealEngine4, can develop general 3D game independently, e.g. FPS, MOBA, RTS and so on. Familiar with Particle, Lighting, UI, Network and GamePlay of UE4, and know Material of UE4.
+4, Strong developer skills in UnrealEngine4, can develop general 3D game independently, e.g. FPS, MOBA, RTS and
+so on. Familiar with Particle, Lighting, UI, Network and GamePlay of UE4, and know Material of UE4.
+
+5，Known Next-Gen Process, familiar with ZBrush sculpting, Maya Modeling, unfold UV, Maps Baking and PBR textures making(SP and DDO), can create Next-Gen simple characters independently.
+
+Many UE4 technical original articles of my blog were included in GAD(Tencent Game Developer Platform) and CSDN
+famous blogger.
 
 ###### Blog
 http://www.dawnarc.com/
 
+###### UE4 technical original articles in my old blog
+http://aigo.iteye.com/category/347833
+
+###### My UE4 ANSWERHUB account
+https://answers.unrealengine.com/users/62390/dawnarc.html
+
+###### Zhihu Column <TechArtist> I founded (1000+ followers)
+https://zhuanlan.zhihu.com/techartist
+
 
 ### Working Experience
-2016/12 until now
 
-`Suzhou Snail Digital Technology Co., Ltd. | C++ Developer`
+##### Shanghai WindSoul Network Technology Co., LTD | Client-side Lead Programmer
+
+2017/12 until now
+
+Industry category: Online game | Enterprise nature: Private | Scale: 20-99 | Monthly salary: Confidentiality
+
+Job description: Responsible for the development of a Next-Gen MMORPG mobile game using Unreal Engine 4.
+
+
+##### Suzhou Snail Digital Technology Co., Ltd. | C++ Developer
+
+2016/12 -- 2017/8 (9 months)
 
 Industry category: Online game | Enterprise nature: Private | Scale: 2000+ | Monthly salary: Confidentiality
 
 Job description: Developing a sandbox PC game with workmates with UnrealEngine4. This project is based on the source of ARK.
-  
-  
-  
-2015/08 -- 2016/10 (14 months)
 
-`Indie Game Development by myself | Game Designer & Developer`
+
+##### Indie Game Development by myself | Game Designer & Developer
+
+2015/08 -- 2016/10 (14 months)
 
 Industry category: Indie game
 
 Job description: Developing a RTS online game with UnrealEngine4 independently. Responsible for all programming of client-side and server-side, and also made a particle like “Arcane Missiles”. Involved in designing gameplay and art.
-  
+
+
+##### Shanghai TheBingo Information Technology Co., LTD | CTO
 
 2012/11 -- 2015/08 (2 years 10 months)
-
-`Shanghai TheBingo Information Technology Co., LTD | CTO`
 
 Industry category: Online game | Enterprise nature: Private | Scale: 20-99 | Monthly salary: Confidentiality
 
 Job description: Responsible for the development of server side infrastructures, games core logic as well as client’s network of the whole company. Control and guide company’s technical direction, along with interns coaching and mentoring.
-  
+
+
+##### Shanghai Dream2 Network Technology Co., LTD | Server-side Lead programmer
 
 2010/12 -- 2012/11 (2 years)
-
-`Shanghai Dream2 Network Technology Co., LTD | Server-side Lead programmer`
 
 Industry category: Online game | Enterprise nature: Private | Scale: 100-499 | Monthly salary: Confidentiality
 
 Job description: Mainly responsible for Pockie Ninja server side engine maintenance and extension as well as game logic development
-  
+
+
+##### VanceInfo (Nanjing) Software Technology Co., LTD | Research and Development Department | R&D Engineer
 
 2010/03 -- 2010/08 (6 months)
-
-`VanceInfo (Nanjing) Software Technology Co., LTD | Research and Development Department | R&D Engineer`
 
 Industry category: Computer software | Enterprise nature: Listed company | Scale: over 10000 | Monthly salary: Confidentiality
 
@@ -180,7 +208,7 @@ programming language are C++ and Blueprint.
 
 This project is based on <ARK: Survival Evolved>, and we do some works for inculturation in China. The game engine is UnrealEngine4.
 
-RTS online game
+##### RTS online game
 
 programming language is C++, consider the performance on mobile devices, didn’t use Blueprint.
 
