@@ -23,7 +23,7 @@ E-mail: aiguo1024@gmail.com
 My 8 years working experience include half year enterprise development experience, five years online game server side development experience, 2.5 years UnrealEngine4 development.
 I was mainly responsible for core module development and server side lead programmer of online game project in my previous jobs. I am able to solve technology difficulties with my professional knowledge all by myself. I would very like to join a responsible and creative team. 
 
-###### Personal skills
+### Personal skills
 + Strong developer skills in C++ and JAVA, can develop server-side core of underlying module with
 JAVA and C++ independently.
 
@@ -42,16 +42,16 @@ so on. Familiar with Particle, Lighting, UI, Network and GamePlay of UE4, and kn
 Many UE4 technical original articles of my blog were included in GAD(Tencent Game Developer Platform) and CSDN
 famous blogger.
 
-###### Blog
+##### Blog
 http://www.dawnarc.com/
 
-###### UE4 technical original articles in my old blog
+##### UE4 technical original articles in my old blog
 http://aigo.iteye.com/category/347833
 
-###### My UE4 ANSWERHUB account
+##### My UE4 ANSWERHUB account
 https://answers.unrealengine.com/users/62390/dawnarc.html
 
-###### Zhihu Column <TechArtist> I founded (1000+ followers)
+##### Zhihu Column <TechArtist> I founded (1000+ followers)
 https://zhuanlan.zhihu.com/techartist
 
 
