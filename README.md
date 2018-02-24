@@ -157,9 +157,15 @@ Job description: Participate in Vodafone telecom and Singapore telecom system de
         </tr>
     </thead>
     <tbody>
+		<tr>
+            <td>Shanghai WindSoul Network Technology Co., LTD</td>
+            <td>2017/12 - till now</td>
+            <td>Next-Gen MMORPG</td>
+            <td>UnrealEngine4</td>
+        </tr>
         <tr>
             <td>Suzhou Snail Digital Technology Co., Ltd.</td>
-            <td>2016/12 - till now</td>
+            <td>2016/12 - 2017/08</td>
             <td>ARK online game</td>
             <td>UnrealEngine4</td>
         </tr>
