@@ -20,7 +20,7 @@ E-mail: aiguo1024@gmail.com
 
 ### Self-Evaluation
 
-My 8 years working experience include half year enterprise development experience, five years online game server side development experience, 2.5 years UnrealEngine4 development.
+My 8 years working experience include half year enterprise development experience, five years online game server side development experience, three years UnrealEngine4 development.
 I was mainly responsible for core module development and server side lead programmer of online game project in my previous jobs. I am able to solve technology difficulties with my professional knowledge all by myself. I would very like to join a responsible and creative team. 
 
 ### Personal skills
@@ -127,7 +127,7 @@ Job description: Participate in Vodafone telecom and Singapore telecom system de
     </thead>
     <tbody>
         <tr>
-            <td>2017.01 until now</td>
+            <td>2017.01 - 2018.09</td>
             <td>3D Concept Design of Mo Xingzhi Art</td>
             <td>Process Models and Next-Generation</td>
         </tr>
