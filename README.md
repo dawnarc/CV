@@ -21,7 +21,6 @@ E-mail: aiguo1024@gmail.com
 ### Self-Evaluation
 
 My 8 years working experience include half year enterprise development experience, five years online game server side development experience, three years UnrealEngine4 development.
-I was mainly responsible for core module development and server side lead programmer of online game project in my previous jobs. I am able to solve technology difficulties with my professional knowledge all by myself. I would very like to join a responsible and creative team. 
 
 ### Personal skills
 + Strong developer skills in C++ and JAVA, can develop server-side core of underlying module with
