@@ -42,7 +42,7 @@ Many UE4 technical original articles of my blog were included in GAD(Tencent Gam
 famous blogger.
 
 ##### My Blog
-http://www.dawnarc.com/
+https://dawnarc.com/
 
 ##### My Stack Overflow
 https://stackoverflow.com/users/1645289/protoss
