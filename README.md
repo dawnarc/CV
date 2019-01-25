@@ -65,7 +65,7 @@ https://zhuanlan.zhihu.com/techartist
 
 Industry category: Online game | Enterprise nature: Private | Scale: 20-99 | Monthly salary: Confidentiality
 
-Job description: Responsible for the development of a Next-Gen MMORPG mobile game using Unreal Engine 4.
+Job description: Responsible for the development of a Next-Gen MMORPG mobile game, and an AAA open world ACT console game, all using Unreal Engine 4.
 
 
 ##### Suzhou Snail Digital Technology Co., Ltd. | C++ Developer
