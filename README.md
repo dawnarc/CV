@@ -2,7 +2,7 @@
 
 Male | Single | Dec. 1987 | Birth Place: Yichang, Hubei province | currently live in Shanghai-China
 
-8 years working experience | non-party personage 
+9 years working experience | non-party personage 
 
 E-mail: aiguo1024@gmail.com
 
@@ -218,6 +218,7 @@ Participate in Vodafone telecom and Singapore telecom system development
 #### Project description (from present to past)
 
 ##### Next-Gen MMORPG game
+programming language is C++, Blueprint are less used.
 
 Core gameplay I developed independently includes: ARPG Battle System, RTS movement AI, Climbing System which like Breath of the Wild, Highly customized API for camera transforming, Customized Joystick System coded by hand, Face Making System and so on.
 
