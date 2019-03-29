@@ -20,7 +20,7 @@ E-mail: aiguo1024@gmail.com
 
 ### Self-Evaluation
 
-My 8 years working experience include half year enterprise development experience, five years online game server side development experience, three years UnrealEngine4 development.
+My 9 years working experience include half year enterprise development experience, 5 years online game server side development experience, 3.5 years UnrealEngine4 development.
 
 ### Personal skills
 + Strong developer skills in C++ and JAVA, can develop server-side core of underlying module with
@@ -53,7 +53,7 @@ http://aigo.iteye.com/category/347833
 ##### My UE4 ANSWERHUB account
 https://answers.unrealengine.com/users/62390/dawnarc.html
 
-##### Zhihu Column <TechArtist> I founded (1000+ followers)
+##### Zhihu Column <TechArtist> I founded (2K+ followers)
 https://zhuanlan.zhihu.com/techartist
 
 
@@ -76,7 +76,8 @@ I was responsible for the development of core gameplay, underlying architecture,
 
 Industry category: Online game | Enterprise nature: Private | Scale: 2000+ | Monthly salary: Confidentiality
 
-Job description: Developing a sandbox PC game with workmates with UnrealEngine4. This project is based on the source of ARK.
+Job description:  
+Developing a sandbox PC game with workmates with UnrealEngine4. This project is based on the source of ARK.
 
 
 ##### Indie Game Development by myself | Game Designer & Developer
@@ -85,7 +86,8 @@ Job description: Developing a sandbox PC game with workmates with UnrealEngine4.
 
 Industry category: Indie game
 
-Job description: Developing a RTS online game with UnrealEngine4 independently. Responsible for all programming of client-side and server-side, and also made a particle like “Arcane Missiles”. Involved in designing gameplay and art.
+Job description:  
+Developing a RTS online game with UnrealEngine4 independently. Responsible for all programming of client-side and server-side, and also made a particle like “Arcane Missiles”. Involved in designing gameplay and art.
 
 
 ##### Shanghai TheBingo Information Technology Co., LTD | CTO
@@ -94,7 +96,8 @@ Job description: Developing a RTS online game with UnrealEngine4 independently. 
 
 Industry category: Online game | Enterprise nature: Private | Scale: 20-99 | Monthly salary: Confidentiality
 
-Job description: Responsible for the development of server side infrastructures, games core logic as well as client’s network of the whole company. Control and guide company’s technical direction, along with interns coaching and mentoring.
+Job description:   
+Responsible for the development of server side infrastructures, games core logic as well as client’s network of the whole company. Control and guide company’s technical direction, along with interns coaching and mentoring.
 
 
 ##### Shanghai Dream2 Network Technology Co., LTD | Server-side Lead programmer
@@ -103,7 +106,8 @@ Job description: Responsible for the development of server side infrastructures,
 
 Industry category: Online game | Enterprise nature: Private | Scale: 100-499 | Monthly salary: Confidentiality
 
-Job description: Mainly responsible for Pockie Ninja server side engine maintenance and extension as well as game logic development
+Job description:  
+Mainly responsible for Pockie Ninja server side engine maintenance and extension as well as game logic development
 
 
 ##### VanceInfo (Nanjing) Software Technology Co., LTD | Research and Development Department | R&D Engineer
@@ -112,10 +116,10 @@ Job description: Mainly responsible for Pockie Ninja server side engine maintena
 
 Industry category: Computer software | Enterprise nature: Listed company | Scale: over 10000 | Monthly salary: Confidentiality
 
-Job description: Participate in Vodafone telecom and Singapore telecom system development
-  
-  
-  
+Job description:  
+Participate in Vodafone telecom and Singapore telecom system development
+
+
 
 ### Resume
 
