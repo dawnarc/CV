@@ -220,7 +220,7 @@ Participate in Vodafone telecom and Singapore telecom system development
 ##### Next-Gen MMORPG game
 programming language is C++, Blueprint are less used.
 
-Core gameplay I developed independently includes: ARPG Battle System, RTS movement AI, Climbing System which like Breath of the Wild, Highly customized API for camera transforming, Customized Joystick System coded by hand, Face Making System and so on.
+Core gameplay I developed independently includes: ARPG Battle System, RTS movement AI, Climbing System which like Breath of the Wild, Highly customized API for camera transforming, Customized Joystick System coded by hand, Run-time Face Making System and so on.
 
 Underlying architecture I developed independently includes: Assets Manager(Async Loading, Memory Persistence and Unloading for both single asset and batch assets), Uniform Interface for UMG operation (Loading UMG Blueprint, Widget Open, Close and Caching), Network layer for TCP handling, Replication using UE4 Dedicated Server .Instructing subordinate to develop a tool to transform Excel to protobuf generated cpp sources and Serialization Data for protobuf.
 
