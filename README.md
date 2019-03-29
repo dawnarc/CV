@@ -65,7 +65,9 @@ https://zhuanlan.zhihu.com/techartist
 
 Industry category: Online game | Enterprise nature: Private | Scale: 20-99 | Monthly salary: Confidentiality
 
-Job description: Responsible for the development of a Next-Gen MMORPG mobile game, and an AAA open world ACT console game, all using Unreal Engine 4.
+Job description:   
+Responsible for the development of a  Next-Gen MMORPG mobile game, and an AAA open world ACT video game, all using Unreal Engine 4.  
+I was responsible for the development of core gameplay, underlying architecture, performance optimization and few TechArt work. Instructing subordinates who never used UE4.
 
 
 ##### Suzhou Snail Digital Technology Co., Ltd. | C++ Developer
@@ -210,6 +212,16 @@ Job description: Participate in Vodafone telecom and Singapore telecom system de
   
   
 #### Project description (from present to past)
+
+##### Next-Gen MMORPG game
+
+Core gameplay I developed independently includes: ARPG Battle System, RTS movement AI, Climbing System which like Breath of the Wild, Highly customized API for camera transforming, Customized Joystick System coded by hand, Face Making System and so on.
+
+Underlying architecture I developed independently includes: Assets Manager(Async Loading, Memory Persistence and Unloading for both single asset and batch assets), Uniform Interface for UMG operation (Loading UMG Blueprint, Widget Open, Close and Caching), Network layer for TCP handling, Replication using UE4 Dedicated Server .Instructing subordinate to develop a tool to transform Excel to protobuf generated cpp sources and Serialization Data for protobuf.
+
+performance optimization work I’m independently responsible includes: performance for Large Scale Scene, include Lighting, Material, Shadow, Foliage, Animation, Gameplay and so on.
+TechArt work I’m independently responsible includes: Dynamic Sky Sphere (Frame rate improved from 7 FPS to 30 FPS on Qualcomm Snapdragon 835 after optimization). Instructing subordinate to develop Interactive Foliage System which includes propagation of flame, grass cutting half. And so on.
+
 
 ##### ARK online game
 programming language are C++ and Blueprint.
