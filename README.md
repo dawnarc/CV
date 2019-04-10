@@ -67,7 +67,7 @@ Industry category: Online game | Enterprise nature: Private | Scale: 20-99 | Mon
 
 Job description:   
 Responsible for the development of a  Next-Gen MMORPG mobile game, and an AAA open world ACT video game, all using Unreal Engine 4.  
-I was responsible for the development of core gameplay, underlying architecture, performance optimization and few TechArt work. Instructing subordinates who never used UE4.
+I was responsible for the development of core gameplay, underlying architecture, performance optimization and few TechArt work and instructing subordinates who never used UE4.
 
 
 ##### Suzhou Snail Digital Technology Co., Ltd. | C++ Developer
@@ -220,7 +220,7 @@ Participate in Vodafone telecom and Singapore telecom system development
 ##### Next-Gen MMORPG game
 programming language is C++, Blueprint are less used.
 
-Core gameplay I developed independently includes: ARPG Battle System, RTS movement AI, Climbing System which like Breath of the Wild, Highly customized API for camera transforming, Customized Joystick System coded by hand, Run-time Face Making System and so on.
+Core gameplay I developed independently includes: ARPG Battle System, RTS movement AI, Climbing System which like Breath of the Wild, Highly customized API for camera transforming, Customized Joystick System coded by HUD which likes `Srike of Kings`, Run-time Face Making System and so on.
 
 Underlying architecture I developed independently includes: Assets Manager(Async Loading, Memory Persistence and Unloading for both single asset and batch assets), Uniform Interface for UMG operation (Loading UMG Blueprint, Widget Open, Close and Caching), Network layer for TCP handling, Replication using UE4 Dedicated Server .Instructing subordinate to develop a tool to transform Excel to protobuf generated cpp sources and Serialization Data for protobuf.
 
