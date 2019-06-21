@@ -20,7 +20,7 @@ E-mail: aiguo1024@gmail.com
 
 ### Self-Evaluation
 
-My 9 years working experience include half year enterprise development experience, 5 years online game server side development experience, 3.5 years UnrealEngine4 development.
+My 9 years working experience include half year enterprise development experience, 5 years online game server side development experience, 4 years UnrealEngine4 development.
 
 ### Personal skills
 + Strong developer skills in C++ and JAVA, can develop server-side core of underlying module with
@@ -67,7 +67,7 @@ Industry category: Online game | Enterprise nature: Private | Scale: 20-99 | Mon
 
 Job description:   
 Responsible for the development of a  Next-Gen MMORPG mobile game, and an AAA open world ACT video game, all using Unreal Engine 4.  
-I was responsible for the development of core gameplay, underlying architecture, performance optimization and few TechArt work and instructing subordinates who never used UE4.
+I was responsible for the development of core gameplay, underlying architecture, performance optimization and some TechArt works and instructing subordinates who never used UE4.
 
 
 ##### Suzhou Snail Digital Technology Co., Ltd. | C++ Developer
