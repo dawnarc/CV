@@ -16,7 +16,7 @@ E-mail: aiguo1024@gmail.com
 
 `Expected salary`: Negotiable
 
-`Current status`: in-service now, but considering changing a new environment
+`Current status`: I'm resigned from my position and job hunting now.
 
 ### Self-Evaluation
 
@@ -48,26 +48,28 @@ https://dawnarc.com/
 https://stackoverflow.com/users/1645289/protoss
 
 ##### UE4 technical original articles in my old blog
-http://aigo.iteye.com/category/347833
+ https://blog.csdn.net/wag2765/article/category/8482832
 
 ##### My UE4 ANSWERHUB account
 https://answers.unrealengine.com/users/62390/dawnarc.html
 
-##### Zhihu Column <TechArtist> I founded (2K+ followers)
+##### Zhihu Column <TechArtist> I founded (3K+ followers)
 https://zhuanlan.zhihu.com/techartist
 
+##### Zhihu Column <UnrealEngine> I founded (1K followers)
+https://zhuanlan.zhihu.com/unrealengine
 
 ### Working Experience
 
 ##### Shanghai WindSoul Network Technology Co., LTD | Client-side Lead Programmer
 
-2017/12 until now
+2017/12 -- 2019/08(1 year and 9 months)
 
 Industry category: Online game | Enterprise nature: Private | Scale: 20-99 | Monthly salary: Confidentiality
 
 Job description:   
-Responsible for the development of a  Next-Gen MMORPG mobile game, and an AAA open world ACT video game, all using Unreal Engine 4.  
-I was responsible for the development of core gameplay, underlying architecture, performance optimization and some TechArt works and instructing subordinates who never used UE4.
+Responsible for the development of a Next-Gen MMORPG mobile game, an open world Action video game and a TPS video game, all using Unreal Engine 4.  
+I was responsible for the development of core gameplay, underlying architecture, performance optimization and few TechArt work. Instructing subordinates who never used UE4.
 
 
 ##### Suzhou Snail Digital Technology Co., Ltd. | C++ Developer
@@ -92,7 +94,7 @@ Developing a RTS online game with UnrealEngine4 independently. Responsible for a
 
 ##### Shanghai TheBingo Information Technology Co., LTD | CTO
 
-2012/11 -- 2015/08 (2 years 10 months)
+2012/11 -- 2015/08 (2 years and 10 months)
 
 Industry category: Online game | Enterprise nature: Private | Scale: 20-99 | Monthly salary: Confidentiality
 
@@ -167,9 +169,9 @@ Participate in Vodafone telecom and Singapore telecom system development
     <tbody>
 		<tr>
             <td>Shanghai WindSoul Network Technology Co., LTD</td>
-            <td>2017/12 - till now</td>
-            <td>Next-Gen MMORPG</td>
-            <td>UnrealEngine4</td>
+            <td>2017/12 - 2019/08</td>
+            <td>Multiple UE4 games</td>
+            <td>UnrealEngine4 + KBEngine + protobuf + MySQL</td>
         </tr>
         <tr>
             <td>Suzhou Snail Digital Technology Co., Ltd.</td>
@@ -217,7 +219,7 @@ Participate in Vodafone telecom and Singapore telecom system development
   
 #### Project description (from present to past)
 
-##### Next-Gen MMORPG game
+##### Multiple UE4 games
 programming language is C++, Blueprint are less used.
 
 Core gameplay I developed independently includes: ARPG Battle System, RTS movement AI, Climbing System which like Breath of the Wild, Highly customized API for camera transforming, Customized Joystick System coded by HUD which likes `Srike of Kings`, Run-time Face Making System and so on.
@@ -225,7 +227,10 @@ Core gameplay I developed independently includes: ARPG Battle System, RTS moveme
 Underlying architecture I developed independently includes: Assets Manager(Async Loading, Memory Persistence and Unloading for both single asset and batch assets), Uniform Interface for UMG operation (Loading UMG Blueprint, Widget Open, Close and Caching), Network layer for TCP handling, Replication using UE4 Dedicated Server .Instructing subordinate to develop a tool to transform Excel to protobuf generated cpp sources and Serialization Data for protobuf.
 
 performance optimization work I’m independently responsible includes: performance for Large Scale Scene, include Lighting, Material, Shadow, Foliage, Animation, Gameplay and so on.
+
 TechArt work I’m independently responsible includes: Dynamic Sky Sphere (Frame rate improved from 7 FPS to 30 FPS on Qualcomm Snapdragon 835 after optimization). Instructing subordinate to develop Interactive Foliage System which includes propagation of flame, grass cutting half. And so on.
+
+I was also responsible for a customized Third-Person Shooting project for Shanghai Branch Office of Improbable, I have resolved some issues independently, includes: issues of linking SpaitalOS’s libraries on Android, two UE4 bugs I have fixed: C++11 features not support fully when building Android package using Clang, OpenSSL API in new version not support on Android.
 
 
 ##### ARK online game
