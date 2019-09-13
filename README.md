@@ -222,13 +222,13 @@ Participate in Vodafone telecom and Singapore telecom system development
 ##### Multiple UE4 games
 programming language is C++, Blueprint are less used.
 
-Core gameplay I developed independently includes: ARPG Battle System, RTS movement AI, Climbing System which like Breath of the Wild, Highly customized API for camera transforming, Customized Joystick System coded by HUD which likes `Srike of Kings`, Run-time Face Making System and so on.
+Core gameplay I developed independently includes: ARPG Battle System, RTS movement AI, Climbing System which likes `Breath of the Wild`, highly customized API for camera transforming, Customized Joystick System(using HUD, not UMG) which likes `Srike of Kings`, Run-time Face Making System and so on.
 
-Underlying architecture I developed independently includes: Assets Manager(Async Loading, Memory Persistence and Unloading for both single asset and batch assets), Uniform Interface for UMG operation (Loading UMG Blueprint, Widget Open, Close and Caching), Network layer for TCP handling, Replication using UE4 Dedicated Server .Instructing subordinate to develop a tool to transform Excel to protobuf generated cpp sources and Serialization Data for protobuf.
+Underlying architecture I developed independently includes: Assets Manager(Loading, Memory Persistence and Unloading for both single asset and batch assets), Uniform Interface for UMG operation (Loading UMG Blueprint, Widget Open, Close and Caching), Network layer for TCP handling, Replication using UE4 Dedicated Server .Instructing subordinate to develop a tool to transform Excel to protobuf generated cpp sources and Serialization Data for protobuf.
 
 performance optimization work I’m independently responsible includes: performance for Large Scale Scene, include Lighting, Material, Shadow, Foliage, Animation, Gameplay and so on.
 
-TechArt work I’m independently responsible includes: Dynamic Sky Sphere (Frame rate improved from 7 FPS to 30 FPS on Qualcomm Snapdragon 835 after optimization). Instructing subordinate to develop Interactive Foliage System which includes propagation of flame, grass cutting half. And so on.
+TechArt work I’m independently responsible includes: Dynamic Sky Sphere (Frame rate improved from 7 FPS to 30 FPS on Qualcomm Snapdragon 835 after optimization). Fog of War which likes `Sekiro: Shadows Die Twice`(using run-time Post Process Settings). Instructing subordinate to develop Interactive Foliage System (millions Instanced Mesh optimized) which includes propagation of flame, grass cutting half. And so on.
 
 I was also responsible for a customized Third-Person Shooting project for Shanghai Branch Office of Improbable, I have resolved some issues independently, includes: issues of linking SpaitalOS’s libraries on Android, two UE4 bugs I have fixed: C++11 features not support fully when building Android package using Clang, OpenSSL API in new version not support on Android.
 
