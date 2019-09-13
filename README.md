@@ -137,7 +137,7 @@ Participate in Vodafone telecom and Singapore telecom system development
     </thead>
     <tbody>
         <tr>
-            <td>2017.01 - 2018.09</td>
+            <td>2017.01 - 2017.09</td>
             <td>3D Concept Design of Mo Xingzhi Art</td>
             <td>Process Models and Next-Generation</td>
         </tr>
