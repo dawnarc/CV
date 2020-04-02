@@ -2,7 +2,7 @@
 
 Male | Single | Dec. 1987 | Birth Place: Yichang, Hubei province | currently live in Shanghai-China
 
-9 years working experience | non-party personage 
+10 years working experience | non-party personage 
 
 E-mail: aiguo1024@gmail.com
 
