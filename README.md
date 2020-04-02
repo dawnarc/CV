@@ -16,11 +16,11 @@ E-mail: aiguo1024@gmail.com
 
 `Expected salary`: Negotiable
 
-`Current status`: I'm resigned from my position and job hunting now.
+`Current status`: I'm in-service
 
 ### Self-Evaluation
 
-My 9 years working experience include half year enterprise development experience, 5 years online game server side development experience, 4 years UnrealEngine4 development.
+My 9 years working experience include half year enterprise development experience, 5 years online game server side development experience, 5 years UnrealEngine4 development.
 
 ### Personal skills
 + Strong developer skills in C++ and JAVA, can develop server-side core of underlying module with
@@ -60,6 +60,15 @@ https://zhuanlan.zhihu.com/techartist
 https://zhuanlan.zhihu.com/unrealengine
 
 ### Working Experience
+
+##### Original Force | Lead Programmer
+
+2019/12 -- until now
+
+Industry category: Animation | Enterprise nature: Private | Scale: 1000+ | Monthly salary: Confidentiality
+
+Job description:   
+Working on AI project with UE4.
 
 ##### Shanghai WindSoul Network Technology Co., LTD | Client-side Lead Programmer
 
