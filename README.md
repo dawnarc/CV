@@ -56,7 +56,7 @@ https://answers.unrealengine.com/users/62390/dawnarc.html
 ##### Zhihu Column `TechArtist` I founded (4K+ followers)
 https://zhuanlan.zhihu.com/techartist
 
-##### Zhihu Column `UnrealEngine` I founded (1K followers)
+##### Zhihu Column `UnrealEngine` I founded (1K+ followers)
 https://zhuanlan.zhihu.com/unrealengine
 
 ### Working Experience
