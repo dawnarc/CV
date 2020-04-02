@@ -20,7 +20,7 @@ E-mail: aiguo1024@gmail.com
 
 ### Self-Evaluation
 
-My 9 years working experience include half year enterprise development experience, 5 years online game server side development experience, 5 years UnrealEngine4 development.
+My 10 years working experience include half year enterprise development experience, 5 years online game server side development experience, 5 years UnrealEngine4 development.
 
 ### Personal skills
 + Strong developer skills in C++ and JAVA, can develop server-side core of underlying module with
@@ -53,7 +53,7 @@ https://stackoverflow.com/users/1645289/protoss
 ##### My UE4 ANSWERHUB account
 https://answers.unrealengine.com/users/62390/dawnarc.html
 
-##### Zhihu Column `TechArtist` I founded (3K+ followers)
+##### Zhihu Column `TechArtist` I founded (4K+ followers)
 https://zhuanlan.zhihu.com/techartist
 
 ##### Zhihu Column `UnrealEngine` I founded (1K followers)
