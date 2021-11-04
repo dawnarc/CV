@@ -1,22 +1,10 @@
 # Neil Wang
 
-Male | Single | Dec. 1987 | Birth Place: Yichang, Hubei province | currently live in Shanghai-China
+Male | Single | Dec. 1987 | Birth Place: Yichang, Hubei province | currently live in Beijing-China
 
 10 years working experience | non-party personage 
 
-E-mail: aiguo1024@gmail.com
-
-### Job Objective
-
-`Job nature`: Full-time 
-
-`Expect occupation`: Game design/development
-
-`Except industry`: Computer software, online game
-
-`Expected salary`: Negotiable
-
-`Current status`: I'm in-service
+mail: aiguo1024@gmail.com
 
 ### Self-Evaluation
 
