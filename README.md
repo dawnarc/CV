@@ -20,26 +20,7 @@ E-mail: aiguo1024@gmail.com
 
 ### Self-Evaluation
 
-My 10 years working experience include half year enterprise development experience, 5 years online game server side development experience, 5 years UnrealEngine4 development.
-
-### Personal skills
-+ Strong developer skills in C++ and JAVA, can develop server-side core of underlying module with
-JAVA and C++ independently.
-
-+ Know C#, JavaScript, HTML, and have developed projects with these languages in 2009, but now, not familiar
-with them .
-
-+ Experience with high load server, I designed and developed a TCP server-side engine independently in 2013, PCU
-(peak concurrent users) reached 2000 with single cloud host in the open beta, and CPU usage is about 40%, PCU
-have reached 5000 on single server in the stress testing.
-
-+ Strong developer skills in UnrealEngine4, can develop general 3D game independently, e.g. FPS, MOBA, RTS and
-so on. Familiar with Particle, Lighting, UI, Network and GamePlay of UE4, and know Material of UE4.
-
-+ Known Next-Gen Process, familiar with ZBrush sculpting, Maya Modeling, unfold UV, Maps Baking and PBR textures making(SP and DDO), can create Next-Gen simple characters independently.
-
-Many UE4 technical original articles of my blog were included in GAD(Tencent Game Developer Platform) and CSDN
-famous blogger.
+My 10 years working experience include half year enterprise development experience, 5 years online game server side development experience, 5 years game client development using Unreal 4.
 
 ##### My Blog
 https://dawnarc.com/
@@ -61,11 +42,20 @@ https://zhuanlan.zhihu.com/unrealengine
 
 ### Working Experience
 
+##### Hero Games | UE4 Tech Expert
+
+2020/08 -- until now
+
+Industry category: Online game | Enterprise nature: Private | Scale: 1000+ 
+
+Job description:   
+Working on next-gen sandbox game using UE4.
+
 ##### Original Force | Lead Programmer
 
-2019/12 -- until now
+2019/12 -- 2020/08(9 months)
 
-Industry category: Animation | Enterprise nature: Private | Scale: 1000+ | Monthly salary: Confidentiality
+Industry category: Animation | Enterprise nature: Private | Scale: 1000+ 
 
 Job description:   
 Working on AI project with UE4.
@@ -74,7 +64,7 @@ Working on AI project with UE4.
 
 2017/12 -- 2019/08(1 year and 9 months)
 
-Industry category: Online game | Enterprise nature: Private | Scale: 20-99 | Monthly salary: Confidentiality
+Industry category: Online game | Enterprise nature: Private | Scale: 20-99 
 
 Job description:   
 Responsible for the development of a Next-Gen MMORPG mobile game, an open world Action video game and a TPS video game, all using Unreal Engine 4.  
@@ -85,7 +75,7 @@ I was responsible for the development of core gameplay, underlying architecture,
 
 2016/12 -- 2017/8 (9 months)
 
-Industry category: Online game | Enterprise nature: Private | Scale: 2000+ | Monthly salary: Confidentiality
+Industry category: Online game | Enterprise nature: Private | Scale: 2000+ 
 
 Job description:  
 Developing a sandbox PC game with workmates with UnrealEngine4. This project is based on the source of ARK.
@@ -105,7 +95,7 @@ Developing a RTS online game with UnrealEngine4 independently. Responsible for a
 
 2012/11 -- 2015/08 (2 years and 10 months)
 
-Industry category: Online game | Enterprise nature: Private | Scale: 20-99 | Monthly salary: Confidentiality
+Industry category: Online game | Enterprise nature: Private | Scale: 20-99 
 
 Job description:   
 Responsible for the development of server side infrastructures, games core logic as well as client’s network of the whole company. Control and guide company’s technical direction, along with interns coaching and mentoring.
@@ -115,7 +105,7 @@ Responsible for the development of server side infrastructures, games core logic
 
 2010/12 -- 2012/11 (2 years)
 
-Industry category: Online game | Enterprise nature: Private | Scale: 100-499 | Monthly salary: Confidentiality
+Industry category: Online game | Enterprise nature: Private | Scale: 100-499 
 
 Job description:  
 Mainly responsible for Pockie Ninja server side engine maintenance and extension as well as game logic development
@@ -125,7 +115,7 @@ Mainly responsible for Pockie Ninja server side engine maintenance and extension
 
 2010/03 -- 2010/08 (6 months)
 
-Industry category: Computer software | Enterprise nature: Listed company | Scale: over 10000 | Monthly salary: Confidentiality
+Industry category: Computer software | Enterprise nature: Listed company | Scale: over 10000 
 
 Job description:  
 Participate in Vodafone telecom and Singapore telecom system development
@@ -176,6 +166,18 @@ Participate in Vodafone telecom and Singapore telecom system development
         </tr>
     </thead>
     <tbody>
+		<tr>
+            <td>Heor Games</td>
+            <td>2020/08 -- until now</td>
+            <td>A next-gen sandbox game</td>
+            <td>UnrealEngine4</td>
+        </tr>
+		<tr>
+            <td>Original Force</td>
+            <td>2019/12 - 2020/08</td>
+            <td>Digital Human (for an AI project)</td>
+            <td>UnrealEngine4</td>
+        </tr>
 		<tr>
             <td>Shanghai WindSoul Network Technology Co., LTD</td>
             <td>2017/12 - 2019/08</td>
@@ -229,6 +231,7 @@ Participate in Vodafone telecom and Singapore telecom system development
 #### Project description (from present to past)
 
 ##### Multiple UE4 games
+
 programming language is C++, Blueprint are less used.
 
 Core gameplay I developed independently includes: ARPG Battle System, RTS movement AI, Climbing System which likes `Breath of the Wild`, highly customized API for camera transforming, Customized Joystick System(using HUD, not UMG) which likes `Srike of Kings`, Run-time Face Making System and so on.
@@ -243,6 +246,7 @@ I was also responsible for a customized Third-Person Shooting project for Shangh
 
 
 ##### ARK online game
+
 programming language are C++ and Blueprint.
 
 This project is based on <ARK: Survival Evolved>, and we do some works for inculturation in China. The game engine is UnrealEngine4.
