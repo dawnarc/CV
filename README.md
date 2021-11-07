@@ -218,6 +218,15 @@ Participate in Vodafone telecom and Singapore telecom system development
   
 #### Project description (from present to past)
 
+##### A next-gen sandbox game
+
+I'm responsible for landscape procedural generation using Houdini, dedicated server optimization of UE4, stress testing tool for UE4 server, assets checking and analysing tool for artists, UE4 based scalability system that used for graphic quality settings.
+
+##### Digital Human (for an AI project)
+
+The work I'm responsible for includes the following: Refactoring the old animation system that converted blueprint scripts of animation system to C++ source; 
+developing animation tool for offline animation rendering that used for seamless animation blending and cutting; developing interfaces which used in UE4 that used for real-time animation of muscle simulation;
+
 ##### Multiple UE4 games
 
 programming language is C++, Blueprint are less used.
@@ -251,12 +260,14 @@ The works with UE4 that I finished independently include: performance optimizati
   
   
 ##### Spinal Breakers online game server side
+
 Network module was programmed with C++, other modules were programmed with Java.
 
 Spinal Breakers’s server side architecture is basically the same as Cute Warrior. But it optimizes server side development tools, and modifies the previous constructive mechanism. Specifically, the new project uses maven instead of ant in the previous projects. Integration environment uses Jenkins. As the project's client logic all adopts the lua script to develop, and google official does not provide protobuf’s lua version to support, so the client communication protocol uses a third party open source framework of protobuf: protoc-gen-lua. 
   
   
 ##### Cute Warrior online game server side
+
 Network module was programmed with C++, other modules were programmed with Java.
 
 The program architecture of this project is similar to that of Pockie Ninja server, which includes connection server, game logic server, public data server, central data server, DB server. It adopts distributed architecture.
@@ -269,6 +280,7 @@ In contrast with network module of Warblade online game server-side, all dynamic
   
   
 ##### Warblade online game server side
+
 Programmed with C++ and python.
 
 The project includes gateway server, game logic server, cache server and database server, and uses distributed architecture. The network layer uses ACE framework, cache uses sqllite, database uses mysql, communication protocol uses google’s protobuf, script uses python (achieve C++ interface interaction through the support provided by boost). 
@@ -277,6 +289,7 @@ Within the game, every scene is a single process. UDP communication protocol is 
   
   
 ##### Pockie Ninja online game server
+
 Network module was programmed with C++, other modules were programmed with Java.
 
 Pockie Ninja project includes connection server, game logic server, public data server, data center server and DB server, and it adopts distributed architecture. Its game server, public data server and central data server can scale under load, break into several services or merger, and deploy each service into physical server separately. Server communication module adopts IOCP. Both middleware and game logic uses Java, and middleware can call communication module through JNI. Game script document adopts JavaScript, which is executed by JDK script engine. And database is all made of the blob data type to reduce the DB maintenance complexity.
@@ -285,6 +298,7 @@ I was mainly responsible for the game logic writing and engine maintenance exten
   
   
 ##### eReader system (Vodafone Telecom baseline version and Singapore Telecom customized version)
+
 Programmed with Java.
 
 The project consists of eleven systems including [Manager (management platform)],[Portal (client interface)],[Server (data access platform)],[CMS (content management platform)],[SDP (billing system)],[Timer (timing processing system)]. There are more than 30 people who participate in development and more than 10 people testing in the core group.
