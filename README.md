@@ -14,6 +14,10 @@ My 10 years working experience include half year enterprise development experien
 
 https://dawnarc.com/
 
+##### My Zhihu Column (Tutorials of UE4 and TechArt, 7K+ followers)
+
+https://www.zhihu.com/people/dawnarc/columns
+
 ##### My Stack Overflow
 
 https://stackoverflow.com/users/1645289/protoss
@@ -25,10 +29,6 @@ https://blog.csdn.net/wag2765/article/category/8482832
 ##### My UE4 ANSWERHUB account
 
 https://answers.unrealengine.com/users/62390/dawnarc.html
-
-##### My Zhihu Column (7K+ followers)
-
-https://www.zhihu.com/people/dawnarc/columns
 
 ### Working Experience
 
