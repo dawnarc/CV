@@ -28,7 +28,7 @@ https://answers.unrealengine.com/users/62390/dawnarc.html
 
 ##### My Zhihu Column (7K+ followers)
 
-https://www.zhihu.com/people/dawnarc
+https://www.zhihu.com/people/dawnarc/columns
 
 ### Working Experience
 
@@ -222,7 +222,7 @@ Participate in Vodafone telecom and Singapore telecom system development
 
 ##### A next-gen sandbox game
 
-I'm responsible for landscape procedural generation using Houdini, dedicated server optimization of UE4, stress testing tool for UE4 server, assets checking and analysing tool for artists, UE4 based scalability system that used for graphic quality settings.
+I'm responsible for landscape procedural generation prototyping using Houdini, dedicated server optimization of UE4, stress testing tool for UE4 server, assets checking and analysing tool for artists, UE4 based scalability system that used for graphic quality settings.
 
 ##### Digital Human (for an AI project)
 
