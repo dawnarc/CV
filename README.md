@@ -11,22 +11,24 @@ mail: aiguo1024@gmail.com
 My 10 years working experience include half year enterprise development experience, 5 years online game server side development experience, 5 years game client development using Unreal 4.
 
 ##### My Blog
+
 https://dawnarc.com/
 
 ##### My Stack Overflow
+
 https://stackoverflow.com/users/1645289/protoss
 
 ##### UE4 technical original articles in my old blog
- https://blog.csdn.net/wag2765/article/category/8482832
+
+https://blog.csdn.net/wag2765/article/category/8482832
 
 ##### My UE4 ANSWERHUB account
+
 https://answers.unrealengine.com/users/62390/dawnarc.html
 
-##### Zhihu Column `TechArtist` I founded (4K+ followers)
-https://zhuanlan.zhihu.com/techartist
+##### My Zhihu Column (7K+ followers)
 
-##### Zhihu Column `UnrealEngine` I founded (1K+ followers)
-https://zhuanlan.zhihu.com/unrealengine
+https://www.zhihu.com/people/dawnarc
 
 ### Working Experience
 
