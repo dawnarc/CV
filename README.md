@@ -157,7 +157,7 @@ Participate in Vodafone telecom and Singapore telecom system development
     </thead>
     <tbody>
 		<tr>
-            <td>Heor Games</td>
+            <td>Hero Games</td>
             <td>2020/08 -- until now</td>
             <td>A next-gen sandbox game</td>
             <td>UnrealEngine4</td>
