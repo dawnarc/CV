@@ -1,8 +1,8 @@
-# Neil Wang
+# 王爱国(Aiguo Wang)
 
-Male | Single | Dec. 1987 | Birth Place: Yichang, Hubei province | currently live in Beijing-China
+Male | Single | Dec. 1987 | Birth Place: Yichang, Hubei province | currently live in Hangzhou-China
 
-10 years working experience | non-party personage 
+12 years working experience | non-party personage 
 
 mail: aiguo1024@gmail.com
 
@@ -32,13 +32,22 @@ https://answers.unrealengine.com/users/62390/dawnarc.html
 
 ### Working Experience
 
+##### Wooduan Technology Co., Ltd, | Senior Engine Developer
+
+2022/04 -- until now
+
+Industry category: Online game | Enterprise nature: Private | Scale: 500-1000 
+
+Job description:  
+Working on a shooting game in console using UE4.
+
 ##### Hero Games | UE4 Tech Expert
 
-2020/08 -- until now
+2020/08 -- 2022/02
 
 Industry category: Online game | Enterprise nature: Private | Scale: 1000+ 
 
-Job description:   
+Job description:  
 Working on next-gen sandbox game using UE4.
 
 ##### Original Force | Lead Programmer
@@ -47,7 +56,7 @@ Working on next-gen sandbox game using UE4.
 
 Industry category: Animation | Enterprise nature: Private | Scale: 1000+ 
 
-Job description:   
+Job description:  
 Working on AI project with UE4.
 
 ##### Shanghai WindSoul Network Technology Co., LTD | Client-side Lead Programmer
@@ -56,10 +65,9 @@ Working on AI project with UE4.
 
 Industry category: Online game | Enterprise nature: Private | Scale: 20-99 
 
-Job description:   
+Job description:  
 Responsible for the development of a Next-Gen MMORPG mobile game, an open world Action video game and a TPS video game, all using Unreal Engine 4.  
 I was responsible for the development of core gameplay, underlying architecture, performance optimization and few TechArt work. Instructing subordinates who never used UE4.
-
 
 ##### Suzhou Snail Digital Technology Co., Ltd. | C++ Developer
 
@@ -110,8 +118,6 @@ Industry category: Computer software | Enterprise nature: Listed company | Scale
 Job description:  
 Participate in Vodafone telecom and Singapore telecom system development
 
-
-
 ### Resume
 
 #### Training experience
@@ -156,9 +162,15 @@ Participate in Vodafone telecom and Singapore telecom system development
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Wooduan Technology</td>
+            <td>2022/04 -- until now</td>
+            <td>A next-gen sandbox game</td>
+            <td>UnrealEngine4</td>
+        </tr>
 		<tr>
             <td>Hero Games</td>
-            <td>2020/08 -- until now</td>
+            <td>2020/08 -- 2022/02</td>
             <td>A next-gen sandbox game</td>
             <td>UnrealEngine4</td>
         </tr>
@@ -219,6 +231,10 @@ Participate in Vodafone telecom and Singapore telecom system development
   
   
 #### Project description (from present to past)
+
+##### Console shooting game
+
+My works include: procedural animation (cloth simulation), houdini destruction workflow (include runtime physics simulation & vertex aimation) with Unreal 4.
 
 ##### A next-gen sandbox game
 
