@@ -165,7 +165,7 @@ Participate in Vodafone telecom and Singapore telecom system development
         <tr>
             <td>Wooduan Technology</td>
             <td>2022/04 -- until now</td>
-            <td>A next-gen sandbox game</td>
+            <td>A console shooting game</td>
             <td>UnrealEngine4</td>
         </tr>
 		<tr>
