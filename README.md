@@ -2,19 +2,19 @@
 
 Male | Single | Dec. 1987 | Birth Place: Yichang, Hubei province | currently live in Hangzhou-China
 
-12 years working experience | non-party personage 
+13 years working experience | non-party personage 
 
 mail: aiguo1024@gmail.com
 
 ### Self-Evaluation
 
-My 10 years working experience include half year enterprise development experience, 5 years online game server side development experience, 5 years game client development using Unreal 4.
+My 13 years working experience include 5 years online game server side development experience, 8 years game client development using Unreal 4.
 
 ##### My Blog
 
 https://dawnarc.com/
 
-##### My Zhihu Column (Tutorials of UE4 and TechArt, 7K+ followers)
+##### My Zhihu Column (Tutorials of UE4 and TechArt, 8K+ followers)
 
 https://www.zhihu.com/people/dawnarc/columns
 
@@ -234,7 +234,7 @@ Participate in Vodafone telecom and Singapore telecom system development
 
 ##### Console shooting game
 
-My works include: procedural animation (cloth simulation), houdini destruction workflow (include runtime physics simulation & vertex aimation) with Unreal 4.
+My works include: procedural animation (faking physics cloth simulation), houdini destruction workflow (include runtime physics simulation & vertex aimation) with Unreal 4.
 
 ##### A next-gen sandbox game
 
